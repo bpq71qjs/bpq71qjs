@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=#include_<stdio.h>)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7568D&width=435&lines=This+is+Bpq71qjs'+portfolio.)](https://git.io/typing-svg)
 [![Bpq71qjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpq71qjs)](https://github.com/anuraghazra/github-readme-stats)
 
 
