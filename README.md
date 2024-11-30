@@ -2,7 +2,6 @@
 [![Bpq71qjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpq71qjs)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=belveth)](https://solved.ac/belveth/)
 
-[![activedev_turquoise](https://cdn3.emoji.gg/emojis/1021-activedev-turquoise.png)](https://emoji.gg/emoji/1021-activedev-turquoise)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
